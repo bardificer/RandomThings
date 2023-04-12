@@ -15,4 +15,10 @@ Okay so I have Ruby, and he's a wonderful little bird. He's really anxious thoug
 
 *If* I get another bird, it would be a black-capped conure. I know a local breeder who treats their birds very well, so everything would be good and humane. You can give me money towards another bird and if I end up not getting another, the money will go to my ongoing education (or living expenses) which I'm sure you'd like me to do anyway.
 
-### 
+### Bash Bunny
+This is a really really cool tool. It's a computer inside a USB. It can be used in a bunch of different ways, with automated scripts for both defensive and offensive cybersecurity actions.
+- https://hak5.org/products/bash-bunny
+
+### Notebook Morale Organizer
+It's really just a computer bag, but it's got lots of storage space for both it's designated hacking tools and other stuff. The ability to put patches on the front of it is also awesome. Quick tip, if you buy it with any of the tools in the "field kit" there's a discount. Really only applies if you also want to get the Bash Bunny
+- https://hak5.org/products/hak5-notebook-morale-case
