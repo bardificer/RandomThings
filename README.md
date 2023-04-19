@@ -24,9 +24,8 @@ It's really just a computer bag, but it's got lots of storage space for both it'
 - https://hak5.org/products/hak5-notebook-morale-case
 
 ### Custom Keyboard Build
-I'm learning Russian right now, and while I can type in Spanish with my normal keyboard, I can't with Russian. I also like cool keyboard stuff, so a custom made keyboard would be awesome. A few of the components are listed below, in case you want to buy them or just give me money.
+I like cool keyboards, I'm gonna make one,.
 
-- Case (Option 1) https://kbdfans.com/collections/diy-kit/products/d60-pc-version-mechanical-keyboard-kit?variant=41080275632267
-- Case (Option 2) https://cannonkeys.com/products/ortho60
+- Case https://kbdfans.com/collections/diy-kit/products/d60-pc-version-mechanical-keyboard-kit?variant=41080275632267
 - Keyswitches https://www.gateron.co/products/gateron-ks-3x1-full-milky-switch-set?variant=40069272272985#
-- Keycaps (I'm on waitlist) https://kbdfans.com/products/epbt-brutalist?_pos=3&_psq=Cyrillic&_ss=e&_v=1.0&variant=39643010236555
+- Keycaps I'll get, I haven't decided and surprisingly they're normally short-lived production runs.
