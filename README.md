@@ -26,6 +26,6 @@ It's really just a computer bag, but it's got lots of storage space for both it'
 ### Custom Keyboard Build
 I like cool keyboards, I'm gonna make one,.
 
-- Case https://kbdfans.com/collections/diy-kit/products/d60-pc-version-mechanical-keyboard-kit?variant=41080275632267
+- Case [https://kbdfans.com/collections/diy-kit/products/d60-pc-version-mechanical-keyboard-kit?variant=41080275632267](https://cannonkeys.com/products/ortho60)
 - Keyswitches https://www.gateron.co/products/gateron-ks-3x1-full-milky-switch-set?variant=40069272272985#
 - Keycaps I'll get, I haven't decided and surprisingly they're normally short-lived production runs.
