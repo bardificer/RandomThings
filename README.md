@@ -3,9 +3,8 @@ This exists because Amazon removed `Amazon Assistant` so I can't link to externa
 # Birthday Things
 Some of the things that I want I either can't have now, or are literally not out now, so they'll be detailed here if you want to give me money towards something.
 
-### Lite3DP Gen 2
-This is a very very cool tiny 3d printer. It uses a different technique than the printer I have, so it will let me make very small (but very detailed) 3d prints. The 1st generation wasn't very expensive, so I'm hoping this one isn't either.
-- https://www.crowdsupply.com/lite3dp/lite3dp-gen-2
+### New 3d Printer
+My current 3d printer is good, but it's not quite what I need anymore. Essentially, my current 3d printer is a pickup truck. It's good at making strong stuff, being versatile, and has some good materials. However, it's not the most precise thing in the world. This new 3d printer would be like a motorcycle. While it's not as good for certain things, it is far more precise and maneuverable. I plan on selling my old 3d printer before I buy the new one, so just money towards this would be the most helpful for now.
 
 ### Another Bird
 Okay so I have Ruby, and he's a wonderful little bird. He's really anxious though, so a potential in the near future (depends on job outlook and life circumnstances) is to get another bird to keep him company. This will do a few things:
