@@ -28,5 +28,5 @@ I like cool keyboards, I'm gonna make one. It's expensive but it'll be pretty co
 - Keyswitches - https://www.littlekeyboards.com/collections/keyboard-switches/products/kailh-choc-low-profile-switches?variant=31008074891331 (brown, 5x quantity)
 
 For keycaps I'm gonna get a little fancy
-https://chosfox.com/products/chocfox-cfx-choc-keycaps?variant=42165428289730 (white, 1ux10, quantity 4)
-https://chosfox.com/products/chocfox-cfx-choc-keycaps?variant=42378413473986 (black, 1ux2 homing key, quantity 1)
+- https://chosfox.com/products/chocfox-cfx-choc-keycaps?variant=42165428289730 (white, 1ux10, quantity 4)
+- https://chosfox.com/products/chocfox-cfx-choc-keycaps?variant=42378413473986 (black, 1ux2 homing key, quantity 1)
