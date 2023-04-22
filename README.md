@@ -24,7 +24,7 @@ It's really just a computer bag, but it's got lots of storage space for both it'
 
 ### Custom Keyboard Build
 I like cool keyboards, I'm gonna make one. It's expensive but it'll be pretty cool.
-- Keyboard "brains" - https://mechboards.co.uk/products/helidox-corne-kit?variant=40391708147917 (Choc hotswap option, with nice!nano for both controllers, white)
+- Keyboard "brains" - https://mechboards.co.uk/products/helidox-corne-kit?variant=40391708147917 (Choc hotswap option, with elite-pi for both controllers, white)
 - Keyswitches - https://www.littlekeyboards.com/collections/keyboard-switches/products/kailh-choc-low-profile-switches?variant=31008074891331 (brown, 5x quantity)
 
 For keycaps I'm gonna get a little fancy
