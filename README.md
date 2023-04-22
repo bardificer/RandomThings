@@ -23,8 +23,10 @@ It's really just a computer bag, but it's got lots of storage space for both it'
 - https://hak5.org/products/hak5-notebook-morale-case
 
 ### Custom Keyboard Build
-I like cool keyboards, I'm gonna make one,.
+I like cool keyboards, I'm gonna make one. It's expensive but it'll be pretty cool.
+- Keyboard "brains" - https://mechboards.co.uk/products/helidox-corne-kit?variant=40391708147917 (Choc hotswap option, with nice!nano for both controllers)
+- Keyswitches - https://www.littlekeyboards.com/collections/keyboard-switches/products/kailh-choc-low-profile-switches?variant=31008074891331 (brown, 5x quantity)
 
-- Case [https://kbdfans.com/collections/diy-kit/products/d60-pc-version-mechanical-keyboard-kit?variant=41080275632267](https://cannonkeys.com/products/ortho60)
-- Keyswitches https://www.gateron.co/products/gateron-ks-3x1-full-milky-switch-set?variant=40069272272985#
-- Keycaps I'll get, I haven't decided and surprisingly they're normally short-lived production runs.
+For keycaps I'm gonna get a little fancy
+https://chosfox.com/products/chocfox-cfx-choc-keycaps?variant=42165428289730 (white, 1ux10, quantity 4)
+https://chosfox.com/products/chocfox-cfx-choc-keycaps?variant=42378413473986 (black, 1ux2 homing key, quantity 1)
